@@ -4,3 +4,6 @@ fields:
 - type: datetime
   name: date
   label: Date
+- type: text
+  label: title
+  name: title
